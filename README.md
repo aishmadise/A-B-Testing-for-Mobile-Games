@@ -14,8 +14,9 @@ Initially the first gate was placed at level 30, but in this notebook we're goin
 
 What did I apply to this project?
 
-Data manipulation & Data visualization using Pandas
-Bootstrapping
+1. Data manipulation & Data visualization using Pandas
+
+2. Bootstrapping
 
 
 Conclusion: To keep retention high — both 1-day and 7-day retention — we should NOT MOVE the gate from level 30 to level 40.
